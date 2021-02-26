@@ -1,2 +1,2 @@
 # machine_learning
-Some ml examples on python 3.8 
+Some ml and dm examples on python
